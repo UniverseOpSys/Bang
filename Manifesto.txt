@@ -2,9 +2,9 @@ The Big Bang of The Universe Operating System, UOS.
 
 
 
-This is a placeholder for UOS, The Universe Operating System.  Comic Sans MS will be chosen when possible.
+This is the manifesto for UOS, The Universe Operating System.  Comic Sans MS will be chosen when possible.
 
-This will first be replaced by a web page at http://www.uww.today that does nothing but prepare you to communicate with other space heads using it via a persistent Node REPL in its window.  Sounds easy.  Somebody must know how to do that in a heartbeat.  You will be known as the first space-head, Space-Head.  Possesion of that name carries privilege by decree as does mine (not chosen yet.) (What that means, if anything, to be further considered.)
+UOS will be represented by the web page placed at http://UniverseOpSys that will do nothing at first but present this manifesto.   As soon as possible that will be underlain by a persistent Node REPL in a window.  Persistance means that your data while using it remains in your local memory.  Avoids login if possible.  From one opening of the page to the next, what the user will see in his Node workspace is retained. No login or any of that if possible.  Sounds easy, right?  Somebody must know how to do that in a heartbeat.  If you do you will be imortalized as the first space-head, Space-Head.  Possesion of that name carries privilege by decree as does mine GodsWink. (What that means, if anything, to be further considered.)
 
 
 After that anything can be constructed which is an appropriate web interface that can be named from a logon Node REPL command by entering ".load Bang". It is congruent with the physical Universe as we space-heads see it.  You can then become congruent with whatever you name next. It could be your living room. The default active event at logon is now and forever named Universe by decree. From there one can assume others by naming them.  I have some ideas about what that should and will contain but they are formative. There will be a clock function linked to GMT.  One can immediately change frames of reference by naming one unless that is blocked.  User and supervisor mode possible from this and can evolve. But then what. In the works. Becomes existent with the to-be-specified release of the Bang JavaScript file at github.
