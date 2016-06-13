@@ -1,1 +1,24 @@
+The Big Bang of Gods Operating System
+
+
+
+This is a placeholder for GOS, Gods Operating System.  Comic Sans MS is chosen very consciously.
+
+This will first be replaced by a web page that does nothing but prepare you to communicate with other space heads using it via a persistent Node REPL in its window.  Sounds easy.  Somebody must know how to do that in a heartbeat.
+
+After that anything can be constructed that is an appropriate web interface.
+
+Space head is apropo.  The model used in GOS is that of points, called events, in a Hamiltonian space time p, Q and t in integral Planck units.  The space of them is giganormous so a random one can be considered to live in perfect anonymity until a user copies off any data it has associated into a new one.
+
+A library of Canonical Hamiltonian phase space transformations will be provided in the REPL for the physics and graphics of things.  When space is fixed via a measurement in a best inertial CMB that links it to a point in GOS. It will provide a natural resolution of physical space no greater and no less than nature itself.  Registration with "Real Reality" will be managed inherently with a dynamic and partitioned transformation.  Room for lots of work here.
+
+As a host for virtual reality it has characteristics beyond any specification now or in the future.  A stable channel with mapped coordinates can be set up by reference between two people's rooms with a pair of position samples.  You could do one measurement and I could do one and those two points in our rooms become congruent to each other with chosen translation and/or rotation.  You can use that channel to send or receive a 3D image  I can physically see in real time.  Planar works just as well.  That can be movable for full motion tracking.  A usable beam can be created with my position as the target when I am tracked.  No one can tap into it, however, without knowing what it's event is.
+
+It can and will contain hardware and software supported events which can do Bayesian transformation simulation in parallel.  I.e., it will think.
+
+The enormity of the space of "IP's" inherent in the range of the coordinates and the number of them provides unique security guarantees.  Not promises, guarantees.
+
+The GitHub page I've set up for this is www.github.com/UniverseOpSys the README.md file is thoughts as I design and architect the thing.  A living blog.  The Bang.js creation program execution will first log into it (may just be named Bang) or will reset it. This is the Manifesto.rtf file.
+
+I am currently hung up on the creation of GitHub/UniverseOpSys with GitHub.  Page won't show up and finds something wrong with my creation credential.
 
