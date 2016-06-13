@@ -65,9 +65,11 @@ A description I just wrote a friend: In simple terms it allows one to time stamp
 
 A beacon, which is just a uosEvent anywhere in UOS space, could be established as a feed.  All who can address it can listen or watch using that point.  All who can reach close enough can add or delete.  Segmented rings of restrictions can be applied.  As many bits as must describe a uosEvent the entropy of the space is huge.  As many bits remain after reasonably tracking something that the entropy of the subspace remains huge.  Room for lots of special events around the main attraction that are appropriately cordoned.
 
-A product to which it's position in uww could be added:
-
+A product to which it's position in UOS could be added: 
 https://github.com/jins-meme/home/wiki
+
+A product to which its position in UOS must be added: 
+http://phys.org/news/2016-06-lenovo-google-unveil-room.html?utm_source=nwletter&utm_medium=email&utm_campaign=daily-nwletter
 
 This would get the idea in people's hands before it did their heads. All I need for that is the ability one time to grab a phase space point that is "known" relative to some static CMB that can be defined and sensed somewhere. The firmer tied to our GPS system that can be the better.  Publish that here and it's done. Then zero in uww, uosZero, can become a transformed point from that point by declaration. A transform choice to be carefully made.
 
