@@ -32,3 +32,4 @@ UniverseOpSys
      Useful:
           raw.githubusercontent.com/UniverseOpSys/Bang/master/Manifesto.txt
           raw.githubusercontent.com/UniverseOpSys/Bang/master/README.md
+          raw.githubusercontent.com/UniverseOpSys/Bang/master/Presence.txt
