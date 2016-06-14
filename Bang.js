@@ -1,8 +1,10 @@
-//For John Cocke of IBM: Thanks, John.  I bend my elbow to you once more.
-//Acknowledgment to Bob Cain, creator of the UWW.
+//For John Cocke of IBM: Thanks, John. I bend my elbow to you once more. You'd have loved this one.
+//
+//This program create UOS, establishes the Logon state and then logs in.
+//The last time it runs UOS is decreed created and sharable. (And then this, Bang will disappear.)
 //From this program shall be created Logon, .js program for user entry.
 //	It will not change any of the creation moment variables but
-//	will be otherwise identical.
+//	will be otherwise initially identical.
 var sys = require("util"),
 my_http = require("http"),
 path = require("path"),
