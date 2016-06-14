@@ -30,4 +30,5 @@ UniverseOpSys
           Twitter
                (twitter.com) User: UniverseOpSys Pwd:
      Useful:
-          https://raw.githubusercontent.com/UniverseOpSys/Bang/master/Manifesto.txt
+          raw.githubusercontent.com/UniverseOpSys/Bang/master/Manifesto.txt
+          raw.githubusercontent.com/UniverseOpSys/Bang/master/README.md
