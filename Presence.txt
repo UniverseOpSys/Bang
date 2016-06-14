@@ -1,28 +1,30 @@
 Everything with an * is to do. Everything in parens resolves now and more can be added fruitfully.
+Since a foundational principle of UOS is openness, I may put all the passwords here.  Anarchy is under consideration.
 
 UniverseOpSys 
      (register.com) - log on site as GodsWink to manage UniverseOpSys at
                            register.com communicates via UniverseOpSys@gmail.com
      (UniverseOpSys.com)  
-         *Stuff to manage that domain like its email. Thunderbird?
-         *FTP site for directory to be used in NetDrive.
+          *Stuff to manage that domain like its email. Thunderbird?
+          *FTP site for directory to be used in NetDrive.
      (UniverseOpSys.net) 
-         *Stuff to manage that domain like its email. Thunderbird?
-         *FTP site for directory to be used in NetDrive.
+          *Stuff to manage that domain like its email. Thunderbird?
+          *FTP site for directory to be used in NetDrive.
      *GodsWink@UniverseOpSYS.com Thunderbird?  
-     *github.com/UniverseOpSys
+     (github.com/UniverseOpSys) User: UniverseOpSys Pwd:
      Social
           Google
-            (myaccount.google.com) User:UniverseOpSys Pwd:
-            (UnverseOpSys@gmail.com)
-            (plus.google.com) User:UniverseOpSys Pwd:
-            (mail.google.com) User:UniverseOpSys Pwd
-            (hangouts.google.com) User:universeOpSys Pwd:
-          Twitter
+               (myaccount.google.com) User:UniverseOpSys Pwd:
+               (UnverseOpSys@gmail.com)
+                    (plus.google.com) User:UniverseOpSys Pwd:
+                    (mail.google.com) User:UniverseOpSys Pwd
+                    (hangouts.google.com) User:universeOpSys Pwd:
           Reddit
-            *reddit.com/r/UniverseOpSys (not working yet.)
+               (reddit.com/r/UniverseOpSys) Community:UniverseOpSys User:UniverseOpSys Pwd:
+                    Need to let this account get friendly before creating community which
+                    they inhibit with forced time between posts.
           LinkedIn
           imzy
-            (www.imzy.com) User:UniverseOpSys
+               (www.imzy.com) User:UniverseOpSys Pwd:
           Twitter
                (twitter.com) User: UniverseOpSys Pwd:
