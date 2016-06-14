@@ -1,5 +1,6 @@
 Everything with an * is to do. Everything in parens resolves now and more can be added fruitfully.
 Since a foundational principle of UOS is openness, I may put all the passwords here.  Anarchy is under consideration.
+Hey, I just found that if you treat this editor as an indented editor, it is one.  Silly me.
 
 UniverseOpSys 
      (register.com) - log on site as GodsWink to manage UniverseOpSys at
@@ -28,3 +29,5 @@ UniverseOpSys
                (www.imzy.com) User:UniverseOpSys Pwd:
           Twitter
                (twitter.com) User: UniverseOpSys Pwd:
+     Useful:
+          https://raw.githubusercontent.com/UniverseOpSys/Bang/master/Manifesto.txt
