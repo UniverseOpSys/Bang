@@ -15,7 +15,7 @@ filesys = require("fs")
 
 //Defining a function.  Function can be used after definition so they will be at the start.
 //<script>
-function uosFuzz(parameter) {
+function UOSfuzz(parameter) {
 //invoked on a UOS and fuzzes it about its coordinates to within a tolerance.  Can also be a member function.
 	var variable = 0;
 	variable = parameter;
@@ -25,7 +25,7 @@ function uosFuzz(parameter) {
 //HERE
 //Create the UOS type
 var UOS {
-/////NEEDS a constructor here that makes it zero.
+	//Capitalize these?
 	realReality: function() {/*The member function that applies the hallowed transform.*/},
 	from: function() {/*What do do*/},
 	xform: function() {/*What do do*/},
@@ -44,18 +44,13 @@ var UOS {
 	}
 };
 
-//Create the UOS transform type.  Should just contain a UOSEvent object.
-var UOSXform = {
-	var uOSXform = UOS.Event();
-};
-
 //The Universe and Everything
 var uOSUniverse = new UOS.event();
 //HERE
 
 //Real Reality hard wired eventually to some CMB measurement.
 //Transformation to CMB will be done locally?
-var uOSCMB = new UOS.xform();
+var uOSCMB = new UOS.xform();  //This should instantiate as zero after Bang.js
 
 /////////////////////////////////////////////////////
 //The dynamic transform between CMB
