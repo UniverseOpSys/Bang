@@ -6,8 +6,7 @@ This is the manifesto for UOS, The Universe Operating System.  Comic Sans MS wil
 
 The actual moment, or event, of its Bang has not occured.  Defered while some things are settled.
 
-UOS will be represented by the web page placed at http://UniverseOpSys that will do nothing at first but present 
-this manifesto all prettied up.   As soon as possble that will be underlain by a persistent Node REPL in a window 
+UOS will be represented by the web page placed at http://UniverseOpSys that will do nothing at first but present this manifesto all prettied up.   As soon as possble that will be underlain by a persistent Node REPL in a window 
 with a voice interface. Persistance means that your data while using it remains in your local memory.  (Login 
 avoided if possible or attached to browser maybe.)  From one opening of the page to the next, what the user will 
 see in his Node workspace is retained. No login or any of that if possible.  Sounds easy, right?  Somebody must 
