@@ -127,6 +127,8 @@ When you connect to the UOS via Node you are met with no requirements and nothin
 
 Creating a Node dispatch loop.  Null for starters.
 
+No subsystem I've seen latelely with the internet fails to be mapable immediately and naturally to UOS.  If it is meaningful to name a URL that's the space you will open up to interact with somehow.
+
 Babylonians invented zero. Let's give it meaning once and for all.
 
 This isn't a bad room to think in aloud.  I commit to posterity that everything about the room will remain free and open.  If courteous.
