@@ -15,46 +15,47 @@ filesys = require("fs")
 
 //Defining a function.  Function can be used after definition so they will be at the start.
 //<script>
-function uwwFuzz(parameter) {
-//invoked on a UWW and fuzzes it about its coordinates to within a tolerance.  Can also be a member function.
+function uosFuzz(parameter) {
+//invoked on a UOS and fuzzes it about its coordinates to within a tolerance.  Can also be a member function.
 	var variable = 0;
 	variable = parameter;
 	return variable;
 };
 //</script>
-
-//Create the UWW event type
-var uWWEvent = {
+//HERE
+//Create the UOS type
+var UOS {
 /////NEEDS a constructor here that makes it zero.
 	RealReality: function() {/*The member function that applies the hallowed transform.*/},
-	Event: function() {/*What do do*/},
 	From: function() {/*What do do*/},
 	Xform: function() {/*What do do*/},
 	Fuzz: function() {/*What do do*/},
 	Zero: function() {/*What do do*/},
 	Think: function() {/*Bayseian, QBist simulation of quantum system.  To be specified.*/},
-	pX: 0,
-	pY: 0,
-	pZ: 0,
-	qX: [0, 0],
-	qY: [0, 0],
-	qZ: [0, 0],
-	qt: [0],
-	d: []
+	Event: function() { //Need to initalize to zero at instantiation.
+		pX: 0,
+		pY: 0,
+		pZ: 0,
+		qX: [0, 0],
+		qY: [0, 0],
+		qZ: [0, 0],
+		qt: [0],
+		d: []
+	}
 };
 
-//Create the UWW transform type.  Should just contain a uWWEvent object.
-var uWWXform = {
-	var uWWXform = uWWEvent();
+//Create the UOS transform type.  Should just contain a UOSEvent object.
+var UOSXform = {
+	var uOSXform = UOS.Event();
 };
 
 //The Universe and Everything
-var uWWUniverse = new uWWEvent();
+var uOSUniverse = new UOS.Event();
 //HERE
 
 //Real Reality hard wired eventually to some CMB measurement.
 //Transformation to CMB will be done locally?
-var UWWCMB = new uWWXform();
+var uOSCMB = new UOS.Xform();
 
 /////////////////////////////////////////////////////
 //The dynamic transform between CMB
