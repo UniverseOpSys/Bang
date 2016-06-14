@@ -6,24 +6,65 @@ This is the manifesto for UOS, The Universe Operating System.  Comic Sans MS wil
 
 The actual moment, or event, of its Bang has not occured.  Defered while some things are settled.
 
-UOS will be represented by the web page placed at http://UniverseOpSys that will do nothing at first but present this manifesto all prettied up.   As soon as possble that will be underlain by a persistent Node REPL in a window with a voice interface. Persistance means that your data while using it remains in your local memory.  (Login avoided if possible or attached to browser maybe.)  From one opening of the page to the next, what the user will see in his Node workspace is retained. No login or any of that if possible.  Sounds easy, right?  Somebody must know how to do that in a heartbeat.  If you do you will be imortalized as the first space-head, Space-Head.  Possesion of that name carries privilege by decree as does mine GodsWink. (What that means, if anything, to be further considered.)
+UOS will be represented by the web page placed at http://UniverseOpSys that will do nothing at first but present 
+this manifesto all prettied up.   As soon as possble that will be underlain by a persistent Node REPL in a window 
+with a voice interface. Persistance means that your data while using it remains in your local memory.  (Login 
+avoided if possible or attached to browser maybe.)  From one opening of the page to the next, what the user will 
+see in his Node workspace is retained. No login or any of that if possible.  Sounds easy, right?  Somebody must 
+know how to do that in a heartbeat.  If you do you will be imortalized as the first space-head, Space-Head.  
+Possesion of that name carries privilege by decree as does mine GodsWink. (What that means, if anything, to be 
+further considered.)
 
 
-After that anything can be constructed which is an appropriate web interface that can be named from a logon Node REPL command by entering ".load Bang". It is congruent with the physical Universe as we space-heads see it.  All URLs are accessable by name that can be sent to a browser. Decreed default behavior. Other things are available by name. A popular one will be Universe which is the best mapping possible to the physical universe rooted in some fixed and as yet undefined CMB space. This one lets you turn in or off that knob on your TV.  You can then become congruent with whatever you name next. It could be your living room. A spoken or entered name from the main window will fully replace the user context with that communicated. Fail safe reset. The default active event addressable at logon, the one you jump into, is now and forever named Universe by decree. From there one can assume other congruencies by naming them.  I have some ideas about what that should and will contain but they are formative. There will be a clock function linked to GMT.  One can immediately change frames of reference by naming one unless that is blocked.  User and supervisor mode possible from this and can evolve. But then what. In the works. Becomes existent with the to-be-specified release of the Bang JavaScript file at github.
+After that anything can be constructed which is an appropriate web interface that can be named from a logon 
+Node REPL command by entering ".load Bang". It is congruent with the physical Universe as we space-heads 
+see it.  All URLs are accessable by name that can be sent to a browser. Decreed default behavior. Other things 
+are available by name. A popular one will be Universe which is the best mapping possible to the physical universe 
+rooted in some fixed and as yet undefined CMB space. This one lets you turn in or off that knob on your TV.  
+You can then become congruent with whatever you name next. It could be your living room. A spoken or 
+entered name from the main window will fully replace the user context with that communicated. Fail safe reset. 
+The default active event addressable at logon, the one you jump into, is now and forever named Universe by decree. 
+From there one can assume other congruencies by naming them.  I have some ideas about what that should and will 
+contain but they are formative. There will be a clock function linked to GMT.  One can immediately change frames 
+of reference by naming one unless that is blocked.  User and supervisor mode possible from this and can 
+evolve. But then what. In the works. Becomes existent with the to-be-specified release of the Bang JavaScript 
+file at github.
 
-Space-head is apropo a user.  The model used in the UWW is that of points, called events, in a Hamiltonian space time p, Q and t in integral Planck units.  The view chosen might be called QBist.  The space of events is giganormous so a random one can be considered to live in perfect anonymity until a user copies off any data it has associated into a new one that isn't anonymous.
+Space-head is apropo a user.  The model used in the UWW is that of points, called events, in a Hamiltonian 
+space time p, Q and t in integral Planck units.  The view chosen might be called QBist.  The space of events 
+is giganormous so a random one can be considered to live in perfect anonymity until a user copies off any 
+data it has associated into a new one that isn't anonymous.
 
-A library of Canonical Hamiltonian phase space transformations will be provided in the REPL for the physics and graphics of things.  When space is fixed via a measurement in a best inertial CMB that links it to a point in GOS. It will provide a natural resolution of physical space no greater and no less than nature itself.  Registration with "Real Reality" will be managed inherently with a dynamic and partitioned transformation.  Room for lots of work here.
+A library of Canonical Hamiltonian phase space transformations will be provided in the REPL for the physics 
+and graphics of things.  When space is fixed via a measurement in a best inertial CMB that links it to a point 
+in GOS. It will provide a natural resolution of physical space no greater and no less than nature itself.  
+Registration with "Real Reality" will be managed inherently with a dynamic and partitioned transformation.  
+Room for lots of work here.
 
-It is a place where quants could be nicely at home with the innate coordinate system and transformations. Those are already part of quant thinking and UWW makes it easy for them to work directly with that familiar framework.  Amazing bots can be constructed complete with active Beyesian reasoning.  Simulation anyone?
+It is a place where quants could be nicely at home with the innate coordinate system and transformations. 
+Those are already part of quant thinking and UWW makes it easy for them to work directly with that familiar 
+framework.  Amazing bots can be constructed complete with active Beyesian reasoning.  Simulation anyone?
 
-As a host for virtual reality it has characteristics beyond any specification now or in the future.  A stable channel with mapped coordinates can be set up by reference between two people's rooms with a pair of position samples.  You could do one measurement and I could do one and those two points in our rooms become congruent to each other with chosen translation and/or rotation.  We can share that channel to send or receive a 3D image  I can physically see in real time.  Planar works just as well.  That can be movable for full motion tracking.  A usable beam can be created with my position as the target when I am tracked.  No one can tap into it, however, without knowing what it's event is.
+As a host for virtual reality it has characteristics beyond any specification now or in the future.  A stable 
+channel with mapped coordinates can be set up by reference between two people's rooms with a pair of position 
+samples.  You could do one measurement and I could do one and those two points in our rooms become congruent 
+to each other with chosen translation and/or rotation.  We can share that channel to send or receive a 3D image  
+I can physically see in real time.  Planar works just as well.  That can be movable for full motion tracking.  
+A usable beam can be created with my position as the target when I am tracked.  No one can tap into it, however, 
+without knowing what it's event is.
 
-No one can tap into any kind of a channel, however, without knowing what it's event pair is.  No one can modify a channel that doesn't know the events of both ends.  Endpoint to endpoint private security is guaranteed (More to be said on that.)  Channels can be un-traceably disconnected from the UWW at will.  Anybody who does know both end events, can spoof but it is easy to keep that secure. It's what and all that identifies such a channel.
+No one can tap into any kind of a channel, however, without knowing what it's event pair is.  No one can modify 
+a channel that doesn't know the events of both ends.  Endpoint to endpoint private security is guaranteed (More 
+to be said on that.)  Channels can be un-traceably disconnected from the UWW at will.  Anybody who does know 
+both end events, can spoof but it is easy to keep that secure. It's what and all that identifies such a channel.
 
-It can and will contain hardware and software supported events which can do Bayesian transformation simulation in parallel.  I.e., it will think.
+It can and will contain hardware and software supported events which can do Bayesian transformation simulation 
+in parallel.  I.e., it will think.
 
-The enormity of the space of "IP's" inherent in the range of the coordinates and the number of them provides unique security guarantees.  Not promises, guarantees.
+The enormity of the space of "IP's" inherent in the range of the coordinates and the number of them provides 
+unique security guarantees.  Not promises, guarantees.
 
-The GitHub page I've set up for this is www.github.com/UniverseOpSys/Bang the README.md file is thoughts as I design and architect the thing.  A living blog.  The Bang.js creation program execution will first log into it (may just be named Bang) or will reset it. This is the Manifesto.txt file.
+The GitHub page I've set up for this is www.github.com/UniverseOpSys/Bang the README.md file is thoughts as I 
+design and architect the thing.  A living blog.  The Bang.js creation program execution will first log into it 
+(may just be named Bang) or will reset it. This is the Manifesto.txt file.
 
