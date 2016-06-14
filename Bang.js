@@ -1,8 +1,8 @@
 //For John Cocke of IBM: Thanks, John. I bend my elbow to you once more. You'd have loved this one.
 //
-//This program create UOS, establishes the Logon state and then logs in.
-//The last time it runs UOS is decreed created and sharable. (And then this, Bang will disappear.)
-//From this program shall be created Logon, .js program for user entry.
+//This program creates UOS, establishes the Logon state and then logs in.
+//The last time it runs UOS is decreed created and sharable. (And then this, Bang.js will disappear.)
+//From it a program shall be created Bang (.js program without the .js suffix) for user entry to UOS state.
 //	It will not change any of the creation moment variables but
 //	will be otherwise initially identical.
 //This program as Login will then undergo further open development.
@@ -26,13 +26,13 @@ function uosFuzz(parameter) {
 //Create the UOS type
 var UOS {
 /////NEEDS a constructor here that makes it zero.
-	RealReality: function() {/*The member function that applies the hallowed transform.*/},
-	From: function() {/*What do do*/},
-	Xform: function() {/*What do do*/},
-	Fuzz: function() {/*What do do*/},
-	Zero: function() {/*What do do*/},
-	Think: function() {/*Bayseian, QBist simulation of quantum system.  To be specified.*/},
-	Event: function() { //Need to initalize to zero at instantiation.
+	realReality: function() {/*The member function that applies the hallowed transform.*/},
+	from: function() {/*What do do*/},
+	xform: function() {/*What do do*/},
+	fuzz: function() {/*What do do*/},
+	zero: function() {/*What do do*/},
+	think: function() {/*Bayseian, QBist simulation of quantum system.  To be specified.*/},
+	event: function(/*Should .event have paramaters*/) { //Initalize to zero at instantiation with no parameters.
 		pX: 0,
 		pY: 0,
 		pZ: 0,
