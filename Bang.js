@@ -39,7 +39,10 @@ var UOS {
 		qX: [0, 0],
 		qY: [0, 0],
 		qZ: [0, 0],
-		qt: [0],
+		//1.27e72 * 1E6 is 1.27e78 Planck units times is 260 bits. Use 8 or 9 32 bit integers. 8 is 256 bits which is a nice number.
+		t: [46.5E9/*ly*/ * 1.47E18/*sec/ly*/ / 5.39E-44/*sec/Planck*/ * 1E6/*Expansion*/], //Visible universe is 46.5e9 years old.
+		//What comes before the expansion happens to be the repeating decimal 1.268181818...e72 and I think that might be significant.
+		//Thanks to 46.5e9*1.47e18/5.39e-44 and to http://www.ttmath.org/online_calculator.
 		d: []
 	}
 };
