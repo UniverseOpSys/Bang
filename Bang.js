@@ -50,12 +50,12 @@ var UOSXform = {
 };
 
 //The Universe and Everything
-var uOSUniverse = new UOS.Event();
+var uOSUniverse = new UOS.event();
 //HERE
 
 //Real Reality hard wired eventually to some CMB measurement.
 //Transformation to CMB will be done locally?
-var uOSCMB = new UOS.Xform();
+var uOSCMB = new UOS.xform();
 
 /////////////////////////////////////////////////////
 //The dynamic transform between CMB
@@ -68,7 +68,7 @@ var uOSCMB = new UOS.Xform();
 //////////////////////////////////////////////////////
 
 //Hallowed Real Reality Transform
-var uWWHallowed = new uWWXform();
+var uOSHallowed = new UOS.xform();
 //DONE
 //////////////Launched about 7:12 A.M. Fri JUN 10 2016.  Global access possible but not fruitful./////////////
 
@@ -81,12 +81,13 @@ var uWWHallowed = new uWWXform();
 //Again, a user needs not know of the existence of the implicit server.  
 //It's always running and unconditionally serving up requests for whatever is held.
 //Simple as fuck.  Or as simple as I can make it.  
-//I create a channel to something by placing something interesting into the UWW space at any old point.
+//I create a channel to something by placing something interesting into the UOS space at any old point.
 
 //How does it receive requests and get them under the aegis of the server.  Final link.  
 //Any process on the device is served locally by the device and service is synchronous.
 
-//I'm on A and I want to ask for something from B.  uww.From(uww, B) requests the current content of event uww within B.  Should this block?
+//From A and I want to ask for something from B.  A.d = B.from(uOSEvent) copies the current data packet from event uOSEvent.
+//within B.  Should this block?
 
 //World lines remain not even well thought out.  I'm sure my subconscious has a thread going on it, though.
 
