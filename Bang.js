@@ -1,5 +1,8 @@
 //For John Cocke of IBM: Thanks, John.  I bend my elbow to you once more.
 //Acknowledgment to Bob Cain, creator of the UWW.
+//From this program shall be created Logon, .js program for user entry.
+//	It will not change any of the creation moment variables but
+//	will be otherwise identical.
 var sys = require("util"),
 my_http = require("http"),
 path = require("path"),
