@@ -5,6 +5,7 @@
 //From this program shall be created Logon, .js program for user entry.
 //	It will not change any of the creation moment variables but
 //	will be otherwise initially identical.
+//This program as Login will then undergo further open development.
 var sys = require("util"),
 my_http = require("http"),
 path = require("path"),
