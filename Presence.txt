@@ -13,8 +13,9 @@ UniverseOpSys
      *github.com/UniverseOpSys
      Social
          Google
+            (https://myaccount.google.com) User:UniverseOpSys Pwd:
             (UnverseOpSys@gmail.com)
-            *Google+
+            (https://plus.google.com) User:UniverseOpSys Pwd:
             *Twitter
          Reddit
             *reddit.com/r/UniverseOpSys (not working yet.)
