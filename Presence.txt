@@ -16,11 +16,11 @@ Hey, I just found that if you treat this editor as an indented editor, it is one
      (github.com/UniverseOpSys) User: UniverseOpSys Pwd:
      Social
           Google
-               (myaccount.google.com) User:UniverseOpSys Pwd:
+               (myaccount.google.com) User:UniverseOpSys Pwd:Bang
                (UnverseOpSys@gmail.com)
-                    (plus.google.com) User:UniverseOpSys Pwd:
-                    (mail.google.com) User:UniverseOpSys Pwd
-                    (hangouts.google.com) User:universeOpSys Pwd:
+                    (plus.google.com) User:UniverseOpSys Pwd:Bang
+                    (mail.google.com) User:UniverseOpSys Pwd:Bang
+                    (hangouts.google.com) User:universeOpSys Pwd:Bang
           Reddit
                (reddit.com/r/UniverseOpSys) Community:UniverseOpSys User:UniverseOpSys Pwd:
                     Need to let this account get friendly before creating community which
