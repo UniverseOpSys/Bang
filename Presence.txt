@@ -2,6 +2,8 @@ Everything with an * is to do. Everything in parens resolves now and more can be
 Since a foundational principle of UOS is openness, I may put all the passwords here.  Anarchy is under consideration.
 Hey, I just found that if you treat this editor as an indented editor, it is one.  Silly me.
 
+Below happens to be the outline of a perfectly good web presence for something not named UniverseOpSys
+
 (*UOSToday.us) User:  Pwd:   Blank page.  Registrar sso.godaddy.com
 (*UniverseOpSys) User:??? Pwd:??? 
      (register.com) - User:UniverseOpSys Pwd:Bang (Created sites, .com, net remain below for silly reasons.)
