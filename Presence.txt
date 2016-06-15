@@ -42,8 +42,10 @@ Below happens to be the outline of a perfectly good web presence for something n
           raw.githubusercontent.com/UniverseOpSys/Bang/master/Manifesto.txt
           raw.githubusercontent.com/UniverseOpSys/Bang/master/README.md
           raw.githubusercontent.com/UniverseOpSys/Bang/master/Presence.txt
-       
+
           
+//This is the wrong info for UniverseOpSys.com or for UniverseOpSys.net
+//It's a site bucket, though, and it's writable. Could be useful if persistent.
 The following information is your FTP Server Information for universeopsys.net:
 Host/Server Name: 000evqe.rcomhost.com
 Username: ftp2927189
