@@ -8,12 +8,12 @@ Hey, I just found that if you treat this editor as an indented editor, it is one
                            register.com communicates via UniverseOpSys@gmail.com
      (UniverseOpSys.com)  
           *Stuff to manage that domain like its email. Thunderbird, MailBird?
-          *FTP site for directory to be used in NetDrive.
+          *FTP site for directory to be used in NetDrive.  Communication with register.com in progress.
      (UniverseOpSys.net) 
           *Stuff to manage that domain like its email. Thunderbir, MailBird?
-          *FTP site for directory to be used in NetDrive.
+          *FTP site for directory to be used in NetDrive. Communication with register.com in progress.
      *GodsWink@UniverseOpSys.com Thunderbird?  
-     (github.com/UniverseOpSys) User: UniverseOpSys Pwd:
+     (github.com/UniverseOpSys) User: UniverseOpSys Pwd:Bang
      Social
           Google
                (myaccount.google.com) User:UniverseOpSys Pwd:Bang
