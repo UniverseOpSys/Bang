@@ -2,7 +2,8 @@ Everything with an * is to do. Everything in parens resolves now and more can be
 Since a foundational principle of UOS is openness, I may put all the passwords here.  Anarchy is under consideration.
 Hey, I just found that if you treat this editor as an indented editor, it is one.  Silly me.
 
-UniverseOpSys 
+(UOSToday.us) User:  Pwd:   Blank page.
+(UniverseOpSys) User:??? Pwd:??? 
      (register.com) - log on site as GodsWink to manage UniverseOpSys at
                            register.com communicates via UniverseOpSys@gmail.com
      (UniverseOpSys.com)  
@@ -11,7 +12,7 @@ UniverseOpSys
      (UniverseOpSys.net) 
           *Stuff to manage that domain like its email. Thunderbird?
           *FTP site for directory to be used in NetDrive.
-     *GodsWink@UniverseOpSYS.com Thunderbird?  
+     *GodsWink@UniverseOpSys.com Thunderbird?  
      (github.com/UniverseOpSys) User: UniverseOpSys Pwd:
      Social
           Google
