@@ -129,6 +129,8 @@ Creating a Node dispatch loop.  Null for starters.
 
 No subsystem I've seen latelely with the internet fails to be mapable immediately and naturally to UOS.  If it is meaningful to name a URL that's the space you will open up to interact with somehow.
 
+There is room in this for much villany to hide as well, but since when hasn't there been.
+
 I wonder how applicable graphics cards and Bitcoin miners might be to infrastructure.  Address arithemetic crucial.  I'll bet they are super amenable to multiple residue integer numbers.
 
 Babylonians invented zero. Let's give it meaning once and for all.
