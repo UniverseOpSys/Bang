@@ -22,7 +22,7 @@ Hey, I just found that if you treat this editor as an indented editor, it is one
                     (mail.google.com) User:UniverseOpSys Pwd:Bang
                     (hangouts.google.com) User:universeOpSys Pwd:Bang
           Reddit
-               (reddit.com/r/UniverseOpSys) Community:UniverseOpSys User:UniverseOpSys Pwd:
+               (reddit.com/r/UniverseOpSys) Community:UniverseOpSys User:UniverseOpSys Pwd:Bang
                     Need to let this account get friendly before creating community which
                     they inhibit with forced time between posts.
           LinkedIn
