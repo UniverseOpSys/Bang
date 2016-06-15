@@ -4,9 +4,11 @@ Hey, I just found that if you treat this editor as an indented editor, it is one
 
 Below happens to be the outline of a perfectly good web presence for something not named UniverseOpSys
 
-     (*UOSToday.us) User:  Pwd:   Blank page.  Registrar sso.godaddy.com
-     (UniverseOpSys) DNS resolves universeopsys.com 
-     (register.com) - User:UniverseOpSys Pwd:Bang (Below are where created sites, .com, net, remain for silly reasons.)
+     (*UOSToday.us) User:  Pwd:   Blank page.  Registrar sso.godaddy.com  
+          ???News site about Universe Operating Sytem???
+          ???Could just link to Reddit.com/UniverseOpSys???
+     (UniverseOpSys) DNS resolves to universeopsys.com 
+     (register.com) - User:UniverseOpSys Pwd:Bang (GodsWink are where created sites, .com, net, remain for silly reasons.)
                       User:GodsWink Pwd:Bang 
                          to manage UniverseOpSys domains at register.com. Communicates via UniverseOpSys@gmail.com
      (UniverseOpSys.com)  
