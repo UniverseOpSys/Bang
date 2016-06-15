@@ -34,3 +34,10 @@ Hey, I just found that if you treat this editor as an indented editor, it is one
           raw.githubusercontent.com/UniverseOpSys/Bang/master/Manifesto.txt
           raw.githubusercontent.com/UniverseOpSys/Bang/master/README.md
           raw.githubusercontent.com/UniverseOpSys/Bang/master/Presence.txt
+       
+          
+The following information is your FTP Server Information for universeopsys.net:
+Host/Server Name: 000evqe.rcomhost.com
+Username: ftp2927189
+Password: nmeBaxn6
+Directory/Path: htdocs
