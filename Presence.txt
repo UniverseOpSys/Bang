@@ -4,8 +4,8 @@ Hey, I just found that if you treat this editor as an indented editor, it is one
 
 (*UOSToday.us) User:  Pwd:   Blank page.  Registrar sso.godaddy.com
 (*UniverseOpSys) User:??? Pwd:??? 
-     (register.com) - log on site as GodsWink to manage UniverseOpSys at
-                           register.com communicates via UniverseOpSys@gmail.com
+     (register.com) - Login:GodsWink Pwd:Bang to manage UniverseOpSys at
+                         register.com. Communicates via UniverseOpSys@gmail.com
      (UniverseOpSys.com)  
           *Stuff to manage that domain like its email. Thunderbird, MailBird?
           *FTP site for directory to be used in NetDrive.  Communication with register.com in progress.
