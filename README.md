@@ -125,7 +125,7 @@ All communications is simply hashed by the sender's and receiver's coordinates a
 
 When you connect to the UOS via Node you are met with no requirements and nothing about you is used or exchanged by it to establish a connection.  It just is.  Initial functional connections can be made by naming them which causes activity.  Then behaviors begin that have memory and channel traces.  Should you chose you can use the Node REPL to build an application or play around with the "hardware" locally.  You can do either/or concurently.  One you might do right away is to name a browser.  The REPL remains active.
 
-Creating a Node dispatch loop.  Null for starters.
+Creating a Node dispatch loop?  Null for starters?
 
 No subsystem I've seen latelely with the internet fails to be mapable immediately and naturally to UOS.  If it is meaningful to name a URL that's the space you will open up to interact with somehow.
 
@@ -133,7 +133,7 @@ It can operate with eyes wide open from the quantum through the classical to the
 
 There is room in this for much villany to hide as well, but since when hasn't there been.
 
-I wonder how applicable graphics cards and Bitcoin miners might be to infrastructure.  Address arithemetic crucial.  I'll bet they are super amenable to multiple residue integer numbers.
+I wonder how applicable graphics cards and Bitcoin miners might be to infrastructure.  Address arithemetic is the whole burden. I'll bet they are super amenable to multiple residue positive integer numbers.  Hunky, parallel.
 
 Babylonians invented zero. Let's give it meaning once and for all.
 
