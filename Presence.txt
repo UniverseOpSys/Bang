@@ -4,19 +4,17 @@ Hey, I just found that if you treat this editor as an indented editor, it is one
 
 Below happens to be the outline of a perfectly good web presence for something not named UniverseOpSys
 
-     (*UOSToday.us) User:  Pwd:   Blank page.  Registrar sso.godaddy.com  
-          ???News site about Universe Operating Sytem???
-          ???Could just link to Reddit.com/UniverseOpSys???
-     (UniverseOpSys) DNS resolves to universeopsys.com 
-     (register.com) - User:UniverseOpSys Pwd:Bang (GodsWink are where created sites, .com, net, remain for silly reasons.)
+(*UOSToday.us) User:  Pwd:   Blank page.  Registrar sso.godaddy.com
+(*UniverseOpSys) User:??? Pwd:??? 
+     (register.com) - User:UniverseOpSys Pwd:Bang (The created sites, .com, net remain below for silly reasons.)
                       User:GodsWink Pwd:Bang 
-                         to manage UniverseOpSys domains at register.com. Communicates via UniverseOpSys@gmail.com
-     (UniverseOpSys.com)  
-          *Stuff to manage that domain like its email. Thunderbird, MailBird?
-          *FTP site for directory to be used in NetDrive.  Communication with register.com in progress.
-     (UniverseOpSys.net) 
-          *Stuff to manage that domain like its email. Thunderbir, MailBird?
-          *FTP site for directory to be used in NetDrive. Communication with register.com in progress.
+                         //to manage UniverseOpSys domains at register.com. Communicates via UniverseOpSys@gmail.com//
+                         (UniverseOpSys.com)  
+                              *Stuff to manage that domain like its email. Thunderbird, MailBird?
+                              *FTP site for directory to be used in NetDrive.  Communication with register.com in progress.
+                         (UniverseOpSys.net) 
+                              *Stuff to manage that domain like its email. Thunderbir, MailBird?
+                              *FTP site for directory to be used in NetDrive. Communication with register.com in progress.
      *GodsWink@UniverseOpSys.com Thunderbird?  
      (github.com/UniverseOpSys) User: UniverseOpSys Pwd:Bang
      Social
