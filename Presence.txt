@@ -7,10 +7,10 @@ Hey, I just found that if you treat this editor as an indented editor, it is one
      (register.com) - log on site as GodsWink to manage UniverseOpSys at
                            register.com communicates via UniverseOpSys@gmail.com
      (UniverseOpSys.com)  
-          *Stuff to manage that domain like its email. Thunderbird?
+          *Stuff to manage that domain like its email. Thunderbird, MailBird?
           *FTP site for directory to be used in NetDrive.
      (UniverseOpSys.net) 
-          *Stuff to manage that domain like its email. Thunderbird?
+          *Stuff to manage that domain like its email. Thunderbir, MailBird?
           *FTP site for directory to be used in NetDrive.
      *GodsWink@UniverseOpSys.com Thunderbird?  
      (github.com/UniverseOpSys) User: UniverseOpSys Pwd:
