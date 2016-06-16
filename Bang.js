@@ -95,9 +95,21 @@ var uOSHallowed = new UOS.xform();
 //After that I think it is about how they are used.  Back to the books.
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////
-//Here will go the interface to the Transputer like process/link model.  Initially it will just well simulate
-//a Transputer but it will eventuate to have UOS objects and events incorporated having no symantic 
-//overlap between the mechanism and the data that is on the links or of any UOS object.  Separate universes.
+//Here will go the interface to the Transputer like process/link model.  Initially it must well simulate
+//a Transputer (hard development decision) but it will eventuate to have UOS objects and events incorporated 
+//having no symantic overlap between the mechanism and the data that is on the links or of any UOS object.  
+//Separate universes ripe for independant development. Write a usable Transputer simulator in JavaScript 
+//and Node.js (which will come to underly every communication in the system.)  Such a thing could be very
+//useful outside this project.
+//
+//In the end what remains of the instruction execution unit might even disappear to be replaced with something 
+//totally UOS centric that I imply as actions when I describe the data above. Simplicity, generality shall
+//decree that functionality.  Maybe back to the JavaScript REPL with that going on silently below.  Now runs
+//some UOS representation of the CSP like interface in the Transputer which can be "called" via some associated 
+//object defined in UOS.  What to call this beast?  Where to put it? Can it be a generally switchable context?
+//It's what I implied with saying things like "going there."  The exposed methods of this object relate to the
+//Transputer process and link model of what is "within" it.  It also contains as a data component a UOSEvent.
+//The generic, object type is a UOSEontext T.B.D.
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////
 //TEST
 function watcher (argv) {
