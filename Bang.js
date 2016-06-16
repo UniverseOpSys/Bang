@@ -94,6 +94,11 @@ var uOSHallowed = new UOS.xform();
 //2 Some event needs to be able to put a request in the same event queue.
 //After that I think it is about how they are used.  Back to the books.
 
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+//Here will go the interface to the Transputer like process/link model.  Initially it will just well simulate
+//a Transputer but it will eventuate to have UOS objects and events incorporated having no symantic 
+//overlap between the mechanism and the data that is on the links or of any UOS object.  Separate universes.
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
 //TEST
 function watcher (argv) {
     const
