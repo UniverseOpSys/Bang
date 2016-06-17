@@ -118,7 +118,12 @@ Var UOSProcess{};
 	//inheritance.  The Kindle book defining the Transputer is available at:
 		//https://smile.amazon.com/Hardware-Software-Architecture-Transputer-Computer-ebook/dp/B004OYTS1K
 	//The first exposed methods will resemble the Occam methods defined therein as closely as possible with
-	//regard to processes and links.  I want something known to work.
+	//regard to processes and links.  I want something known to work first with content available.  
+	//The blocks and flows at https://www.dropbox.com/s/dqmur1qyrwbglj7/T400_Low-Cost_32-bit_Transputer.pdf
+	//can be one by one be replaced by an environment that is more UOS appropo.  If only I knew a prof. 
+	//An exact Javascript/Node model of a Transputer would be a wonderful undergrad project.
+	
+	
 //TEST
 function watcher (argv) {
     const
