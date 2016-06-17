@@ -121,7 +121,11 @@ Var UOSProcess{};
 	//regard to processes and links.  I want something known to work first with content available.  
 	//The blocks and flows at https://www.dropbox.com/s/dqmur1qyrwbglj7/T400_Low-Cost_32-bit_Transputer.pdf
 	//can be one by one be replaced by an environment that is more UOS appropo.  If only I knew a prof. 
-	//An exact Javascript/Node model of a Transputer would be a wonderful undergrad project.
+	//An exact Javascript/Node model of a Transputer would be a wonderfully useful undergrad project.
+	//
+	//However it gets fleshed out, the initial user workspace will be that of the JavaScript Node REPL. One can
+	//assume that the process model for the Transputer is operative and that he can invoke Occam methods on the
+	//UOSProcess object.  He remains firmly ensconsed in that REPL.  Entry at this level will always exist. 
 	
 	
 //TEST
