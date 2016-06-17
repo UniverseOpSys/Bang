@@ -111,6 +111,14 @@ var uOSHallowed = new UOS.xform();
 //Transputer process and link model of what is "within" it.  It also contains as a data component a UOSEvent.
 //The generic, object type is a UOSEontext T.B.D.
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////
+Var UOSProcess{};
+	//Should this be the object and the initial state which contains the Transputer methods first.
+	//It will eventuate to contain the minimal necessary extensions to that for context free management 
+	//of UOSEvent objects.  All that can be removed from the instruction execution unit will be via an object
+	//inheritance.  The Kindle book defining the Transputer is available at:
+		//https://smile.amazon.com/Hardware-Software-Architecture-Transputer-Computer-ebook/dp/B004OYTS1K
+	//The first exposed methods will resemble the Occam methods defined therein as closely as possible with
+	//regard to processes and links.  I want something known to work.
 //TEST
 function watcher (argv) {
     const
