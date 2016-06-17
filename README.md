@@ -125,6 +125,8 @@ All communications is simply hashed by the sender's and receiver's coordinates a
 
 When you connect to the UOS via Node you are met with no requirements and nothing about you is used or exchanged by it to establish a connection.  It just is.  Initial functional connections can be made by naming them which causes activity.  Then behaviors begin that have memory and channel traces.  Should you chose you can use the Node REPL to build an application or play around with the "hardware" locally.  You can do either/or concurently.  One you might do right away is to name a browser.  The REPL remains active.
 
+http://phys.org/news/2016-06-small-asteroid-earth-constant-companion.html Get a long lifetime position beacon aboard that thing ASAP! And a coordinate fix on it relative to some channel selectable CMB Best Inertial Rest Frame. Then get a coordinate fix of someplace on earth in the identical reference frame. With two quasi-independant points in that frame, fine tuning tweaks of transformations is possible. This could yield the UOS Bang event.
+
 Creating a Node dispatch loop?  Null for starters?
 
 No subsystem I've seen latelely with the internet fails to be mapable immediately and naturally to UOS.  If it is meaningful to name a URL that's the space you will open up to interact with somehow.
