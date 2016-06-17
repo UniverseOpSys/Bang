@@ -36,7 +36,7 @@ Below happens to be the outline of a perfectly good web presence for something n
           Disqus
                (discus.com) User:UniverseOpSys Pwd:Bang
           Patreon
-               (patreon.com) User:UniverseOpSys Pwd:Bang
+               (patreon.com/login) User:UniverseOpSys Pwd:Bang
           BusinessInsider ???
           Blogger ???
           YouTube ???
