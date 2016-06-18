@@ -42,7 +42,24 @@ var UOS {
 		//...
 		//7 Whereof one cannot speak, thereof one must be silent.  
 		//Such is d. Manipulable but not intelligible in the core.
-		//Heavy lifting all above it.
+		//Heavy lifting all above it.  The process/link layer never
+                //does more than move/copy them without regard to their nature.
+                //I think that the content of .d is accessable locally 
+                //immediately upon receipt so gates are needed. 
+                //
+                //Transputer stuff guarantees that an arrived message contains
+                //a formless and locally accessable data packet. Transputer stuff 
+                //guarantees that.  
+                //Must be initialized to only receive messages addresed to the 
+                //active node in UOS coordinates. (logon instance.)  
+                //Back to addressibility, anybody I've given my name to can 
+                //send me messages at Bang state if they can produce that name.
+                //Limitations as to amount sent are policy of the sender and the
+                //limits of physical memory. Your sender is like an ISP outside your
+                //node to manage your gates. Pick a good, generic ISP. A 
+                //recommendation or built in bot might become part of this Bang 
+                //definition.  Removing any length check from the receiver process
+                //might prove advantageous for memory management.
 		d: []
 	}
 };
@@ -77,7 +94,7 @@ var uOSCMB = new UOS.xform();  //This should instantiate as zero after Bang.js
 
 //Hallowed Real Reality Transform
 var uOSHallowed = new UOS.xform();
-//DONE
+
 //////////////Launched about 7:12 A.M. Fri JUN 10 2016.  Global access possible but not fruitful./////////////
 
 //Need now to start connecting devices for external communication using Node.  Good point to be.
@@ -137,7 +154,12 @@ Var UOSProcess{};
 	//assume that the process model for the Transputer is operative and that he can invoke Occam methods on the
 	//UOSProcess object.  He remains firmly ensconsed in that REPL.  Entry at this level will always exist. 
 	
-	
+////////////////////////////////////////////////////////////////////////////////////////
+//Final section for discussion of the state one will be in upon execution of this file.
+//What is above is the machinery and objects to get it that way.  This section will guide
+//the development of the above.
+////////////////////////////////////////////////////////////////////////////////////////
+		
 //TEST
 function watcher (argv) {
     const
