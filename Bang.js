@@ -14,14 +14,14 @@ path = require("path"),
 url = require("url"),
 filesys = require("fs")
 ;
-//HERE
+
 //Create the UOS type
 var UOS {
 	//Capitalize these? Redesign them.
+	Fuzz: function() {/*What do do*/},
 	//realReality: function() {/*The member function that applies the hallowed transform.*/},
 	//from: function() {/*What do do*/},
 	//xform: function() {/*What do do*/},
-	//fuzz: function() {/*What do do*/},
 	//zero: function() {/*What do do*/},
 	//think: function() {/*Bayseian, QBist simulation of quantum system.  To be specified.*/},
 	event: function(/*Should .event have paramaters*/) { //Initalize to zero at instantiation with no parameters.
@@ -41,16 +41,17 @@ var UOS {
 		//...
 		//...
 		//7 Whereof one cannot speak, thereof one must be silent.  
-		//Such is d. Manipulable but not intelligible at the core.
+		//Such is d. Manipulable but not intelligible in the core.
+		//Heavy lifting all above it.
 		d: []
 	}
 };
 
 //Defining a function.  Function can be used after definition so they will be at the start.
 //<script>
-function UOSfuzz(parameter) {
+function UOS.Fuzz(parameter) {
 //invoked on a UOS and fuzzes it about its coordinates to within a tolerance.  Can also be a member function.
-	var variable = 0;
+	var variable = rand();
 	variable = parameter;
 	return variable;
 };
