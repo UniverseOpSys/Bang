@@ -5,9 +5,9 @@
 //From it a program shall be created Bang (.js program without the .js suffix) for user entry to UOS state.
 //	It will not change any of the creation moment variables but
 //	will be otherwise initially identical.
-//This program as Login will then undergo further open development.
-//Winnow this list down after TEST program works.
-var 
+//This program as Login will undergo further open development.
+//
+var //Winnow this list down after TEST program works.
 sys = require("util"),
 my_http = require("http"),
 path = require("path"),
@@ -17,13 +17,13 @@ filesys = require("fs")
 //HERE
 //Create the UOS type
 var UOS {
-	//Capitalize these?
-	realReality: function() {/*The member function that applies the hallowed transform.*/},
-	from: function() {/*What do do*/},
-	xform: function() {/*What do do*/},
-	fuzz: function() {/*What do do*/},
-	zero: function() {/*What do do*/},
-	think: function() {/*Bayseian, QBist simulation of quantum system.  To be specified.*/},
+	//Capitalize these? Redesign them.
+	//realReality: function() {/*The member function that applies the hallowed transform.*/},
+	//from: function() {/*What do do*/},
+	//xform: function() {/*What do do*/},
+	//fuzz: function() {/*What do do*/},
+	//zero: function() {/*What do do*/},
+	//think: function() {/*Bayseian, QBist simulation of quantum system.  To be specified.*/},
 	event: function(/*Should .event have paramaters*/) { //Initalize to zero at instantiation with no parameters.
 		pX: 0,
 		pY: 0,
@@ -31,10 +31,17 @@ var UOS {
 		qX: [0, 0],
 		qY: [0, 0],
 		qZ: [0, 0],
-		//1.27e72 * 1E6 is 1.27e78 Planck units times is 260 bits. Use 8 or 9 32 bit integers. 8 is 256 bits which is a nice number.
-		t: [46.5E9/*ly*/ * 1.47E18/*sec/ly*/ / 5.39E-44/*sec/Planck*/ * 1E6/*Expansion*/], //Visible universe is 46.5e9 years old.
+		//1.27e72 * 1E6 is 1.27e78 Planck units times is 260 bits. Use 8 or 9 32 bit integers. 8 is 256 bits 
+		//which is a nice number. 
+		//Visible universe is 46.5e9 years old.
 		//What comes before the expansion happens to be the repeating decimal 1.268181818...e72 and I think that might be significant.
 		//Thanks to 46.5e9*1.47e18/5.39e-44 and to http://www.ttmath.org/online_calculator.
+		t: [46.5E9/*ly*/ * 1.47E18/*sec/ly*/ / 5.39E-44/*sec/Planck*/ * 1E6/*Expansion*/],
+		//1 The world is everything that is the case.
+		//...
+		//...
+		//7 Whereof one cannot speak, thereof one must be silent.  
+		//Such is d. Manipulable but not intelligible at the core.
 		d: []
 	}
 };
