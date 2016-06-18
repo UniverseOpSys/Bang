@@ -6,22 +6,14 @@
 //	It will not change any of the creation moment variables but
 //	will be otherwise initially identical.
 //This program as Login will then undergo further open development.
-var sys = require("util"),
+//Winnow this list down after TEST program works.
+var 
+sys = require("util"),
 my_http = require("http"),
 path = require("path"),
 url = require("url"),
 filesys = require("fs")
 ;
-
-//Defining a function.  Function can be used after definition so they will be at the start.
-//<script>
-function UOSfuzz(parameter) {
-//invoked on a UOS and fuzzes it about its coordinates to within a tolerance.  Can also be a member function.
-	var variable = 0;
-	variable = parameter;
-	return variable;
-};
-//</script>
 //HERE
 //Create the UOS type
 var UOS {
@@ -46,6 +38,16 @@ var UOS {
 		d: []
 	}
 };
+
+//Defining a function.  Function can be used after definition so they will be at the start.
+//<script>
+function UOSfuzz(parameter) {
+//invoked on a UOS and fuzzes it about its coordinates to within a tolerance.  Can also be a member function.
+	var variable = 0;
+	variable = parameter;
+	return variable;
+};
+//</script>
 
 //The Universe and Everything
 var uOSUniverse = new UOS.event();
