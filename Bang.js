@@ -15,7 +15,7 @@ url = require("url"),
 filesys = require("fs")
 ;
 
-//Create the UOS type
+//Create the UOS type. God's Wink.
 var UOS {
 	//Capitalize these? Redesign them.
 	Fuzz: function() {/*What do do*/},
